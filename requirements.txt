@@ -1,0 +1,14 @@
+Flask==2.2.5
+taipy-gui==2.2.1
+Pillow==9.4.0
+pandas==1.5.3
+opencv-python-headless==4.7.0.72
+opencv-python==4.9.0.80
+numpy==1.24.1
+selenium==4.6.0
+chromedriver-autoinstaller==0.6.4
+torch==2.2.0
+torchvision==0.17.0
+taipy
+python-magic-bin
+taipy-config==2.2.0

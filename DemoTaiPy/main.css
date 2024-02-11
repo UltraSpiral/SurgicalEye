@@ -1,0 +1,9 @@
+.responsive-table {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto; /* Allows table to scroll horizontally if needed */
+    overflow-y: auto;
+}
+.highlight-row td {
+    background-color: yellow; /* Adjust the color as needed */
+}
